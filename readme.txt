@@ -76,3 +76,4 @@ mvn clean verify ... -Dhttps.proxyHost=... -Dhttps.proxyPort=...
 Hint: If your proxy requires authentication, you may like to pass along proxy user name and password and implement
       an Authenticator (http://docs.oracle.com/javase/7/docs/api/java/net/Authenticator.html). That is not shown
       in these SDK samples for the sake of better readability.
+Hello
